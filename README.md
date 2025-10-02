@@ -19,9 +19,7 @@ Desenvolver uma solução inovadora para reduzir a taxa de absenteísmo hospital
 | Nome | RM | Função | LinkedIn | GitHub |
 |------|----|---------|---------|---------|
 | **Rafael Malaguti** | 561830 | Líder | [LinkedIn](https://www.linkedin.com/in/rafael-malaguti-481730340/) | [GitHub](https://github.com/rafaelmalaguti) |
-
 | **Natalia Cristina Souza** | 564099 | Vendedora | [LinkedIn](https://www.linkedin.com/in/natalia-cristina-de-souza-333b92169) | [GitHub](https://github.com/natcsouza) |
-
 | **Lincoln Roncato** | 565944 | Desenvolvedor | [LinkedIn](https://www.linkedin.com/in/lincoln-roncato-266233353) | [GitHub](https://github.com/lincolnroncato) |
 
 
