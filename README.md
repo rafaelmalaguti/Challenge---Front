@@ -83,8 +83,10 @@ A aplicação é totalmente responsiva, adaptando-se a diferentes tamanhos de te
 
 **Desenvolvido por:**
 **Rafael Malaguti** **561830**
-**Natalia Souza**
-**Lincoln Roncato**
+
+**Natalia Souza** **564099**
+
+**Lincoln Roncato** **565944**
 
 
 
