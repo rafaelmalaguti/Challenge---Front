@@ -74,7 +74,7 @@ A aplicação é totalmente responsiva, adaptando-se a diferentes tamanhos de te
 
 ## Links Importantes
 
-- **GitHub**: [Link do Repositório]()
+- **GitHub**: [Link do Repositório](https://github.com/rafaelmalaguti/Challenge---Front)
 - **Vídeo Apresentação**: [YouTube](https://youtu.be/Qh9HKnIyuCM)
 
 
